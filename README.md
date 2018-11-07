@@ -1,7 +1,7 @@
 ## Git and GitHub
 
-* [How to use Git and GitHub (screenshot)](git_and_github/udacity_git.png)
-* [try.github.io (screenshot)](git_and_github/codeschool_git.png)
+* [How to use Git and GitHub (screenshot)](task_git_and_github/udacity_git.png)
+* [try.github.io (screenshot)](task_git_and_github/codeschool_git.png)
 
 Previously I was a bit familiar with git, but passing that courses on Udacity
 and Codeschool helped me to restore my knowledge and clarify some unclear
