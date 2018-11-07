@@ -1,7 +1,7 @@
-## Task 0
+## Git and GitHub
 
-* [How to use Git and GitHub (screenshot)](task_0/udacity_git.png)
-* [try.github.io (screenshot)](task_0/codeschool_git.png)
+* [How to use Git and GitHub (screenshot)](git_and_github/udacity_git.png)
+* [try.github.io (screenshot)](git_and_github/codeschool_git.png)
 
 Previously I was a bit familiar with git, but passing that courses on Udacity
 and Codeschool helped me to restore my knowledge and clarify some unclear
@@ -14,11 +14,11 @@ future.
 
 Thanks for this experience!
 
-## Task 1
+## Linux CLI, and HTTP
 
-* [Linux Command Line Basics (screenshot)](task_1/linux_command.png)
-* [Configuring Linux Web Servers (screenshot)](task_1/linux_web_servers.png)
-* [Networking for Web Developers (screenshot)](task_1/networking.png)
+* [Linux Command Line Basics (screenshot)](task_linux_cli/linux_command.png)
+* [Configuring Linux Web Servers (screenshot)](task_linux_cli/linux_web_servers.png)
+* [Networking for Web Developers (screenshot)](task_linux_cli/networking.png)
 
 After these 3 courses I got more familiar with the terminal. From the first
 course I learned new Linux commands, which I hadn't known before. After the
