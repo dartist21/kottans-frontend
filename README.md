@@ -38,3 +38,10 @@ traffic.
 One thing that was new – persistent and parallel connections, one thing that
 surprised – authentication process, one thing to use in the future – HTTP
 Caching.
+
+## Git Collaboration
+
+* [What is version control? (screenshot)](task_git_collaboration/what_is_version_control.png)
+* [GitHub & Collaboration? (screenshot)](task_git_collaboration/github_collaboration.png)
+
+Have repeated difference about revert and reset git commands. Variety of git log options surpised me, for example `git log --oneline --graph --decorate --all`. And exactly will use rebase in my future porjects, if it is needed.
