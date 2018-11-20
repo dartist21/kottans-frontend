@@ -42,6 +42,14 @@ Caching.
 ## Git Collaboration
 
 * [What is version control? (screenshot)](task_git_collaboration/what_is_version_control.png)
-* [GitHub & Collaboration? (screenshot)](task_git_collaboration/github_collaboration.png)
+* [GitHub & Collaboration (screenshot)](task_git_collaboration/github_collaboration.png)
 
 Have repeated difference about revert and reset git commands. Variety of git log options surpised me, for example `git log --oneline --graph --decorate --all`. And exactly will use rebase in my future porjects, if it is needed.
+
+## Intro to HTML and CSS
+
+* [Intro to HTML & CSS (Eng) (screenshot)](task_html_css_intro/udacity_html_css.png)
+* [HTML Academy: Basics of HTML (screenshot)](task_html_css_intro/htmlacademy_basic_html.png)
+* [HTML Academy: Basics of CSS (screenshot)](task_html_css_intro/htmlacademy_basic_css.png)
+
+I have already completed these tasks before. But I remember that HTML Academy courses were good enough and showed interesting details of css and html.
