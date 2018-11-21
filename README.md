@@ -53,3 +53,10 @@ Have repeated difference about revert and reset git commands. Variety of git log
 * [HTML Academy: Basics of CSS (screenshot)](task_html_css_intro/htmlacademy_basic_css.png)
 
 I have already completed these tasks before. But I remember that HTML Academy courses were good enough and showed interesting details of css and html.
+
+## Responsive Web Design
+
+* [Responsive Web Design Fundamentals (screenshot)](task_responsive_web_design/udacity_responsive_web_design.png)
+* [Flexbox Froggy (screenshot)](task_responsive_web_design/flexboxfroggy.png)
+
+Learned info about common responsive patterns, difference between device pixel ratio and hardware pixels. Was previously familiar with flexboxes, so "flexbox froggy" was quite easy for me.
